@@ -1,0 +1,26 @@
+/* you can add to or change this. */
+
+#game div {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  display: inline-block;
+  border-radius: 10px;;
+}
+button{
+  position: absolute;
+  left: 47%;
+  bottom: 20%;
+
+}
+#game{
+  width: 800px;
+  height: 300px;
+  margin:0;
+  position: relative;
+  left: 29%;
+}
+body{
+  background-color: wheat;
+}
